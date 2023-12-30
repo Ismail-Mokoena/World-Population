@@ -1,0 +1,2 @@
+pygal==3.0.4
+pygal_maps_world==1.0.2
